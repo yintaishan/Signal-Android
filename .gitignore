@@ -24,3 +24,6 @@ test/androidTestEspresso/res/values/arrays.xml
 obj/
 jni/libspeex/.deps/
 *.sh
+app/gradle
+app/gradlew.bat
+app/gradlew
